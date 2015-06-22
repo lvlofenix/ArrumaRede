@@ -1,0 +1,71 @@
+C:\Users\lucas\AppData\Local\Temporary Projects\ArrumaRede\bin\Debug\ArrumaRede.exe
+C:\Users\lucas\AppData\Local\Temporary Projects\ArrumaRede\bin\Debug\ArrumaRede.pdb
+C:\Users\lucas\AppData\Local\Temporary Projects\ArrumaRede\obj\x86\Debug\ArrumaRede.Form1.resources
+C:\Users\lucas\AppData\Local\Temporary Projects\ArrumaRede\obj\x86\Debug\ArrumaRede.Properties.Resources.resources
+C:\Users\lucas\AppData\Local\Temporary Projects\ArrumaRede\obj\x86\Debug\ArrumaRede.csproj.GenerateResource.Cache
+C:\Users\lucas\AppData\Local\Temporary Projects\ArrumaRede\obj\x86\Debug\ArrumaRede.exe
+C:\Users\lucas\AppData\Local\Temporary Projects\ArrumaRede\obj\x86\Debug\ArrumaRede.pdb
+C:\Users\lucas\documents\visual studio 2010\Projects\ArrumaRede\ArrumaRede\obj\x86\Debug\ArrumaRede.exe
+C:\Users\lucas\documents\visual studio 2010\Projects\ArrumaRede\ArrumaRede\obj\x86\Debug\ArrumaRede.pdb
+C:\Users\lucas\documents\visual studio 2010\Projects\ArrumaRede\ArrumaRede\bin\Debug\ArrumaRede.exe
+C:\Users\lucas\documents\visual studio 2010\Projects\ArrumaRede\ArrumaRede\bin\Debug\ArrumaRede.pdb
+C:\Users\lucas\documents\visual studio 2010\Projects\ArrumaRede\ArrumaRede\obj\x86\Debug\ArrumaRede.Form1.resources
+C:\Users\lucas\documents\visual studio 2010\Projects\ArrumaRede\ArrumaRede\obj\x86\Debug\ArrumaRede.Properties.Resources.resources
+C:\Users\lucas\documents\visual studio 2010\Projects\ArrumaRede\ArrumaRede\obj\x86\Debug\ArrumaRede.csproj.GenerateResource.Cache
+C:\Users\lucas\documents\visual studio 2010\Projects\ArrumaRede\ArrumaRede\obj\x86\Debug\ArrumaRede.csprojResolveAssemblyReference.cache
+D:\SITES E PROJETOS\C#\ArrumaRede\ArrumaRede\obj\x86\Debug\ArrumaRede.exe
+D:\SITES E PROJETOS\C#\ArrumaRede\ArrumaRede\obj\x86\Debug\ArrumaRede.pdb
+D:\SITES E PROJETOS\C#\ArrumaRede\ArrumaRede\bin\Debug\ArrumaRede.exe
+D:\SITES E PROJETOS\C#\ArrumaRede\ArrumaRede\bin\Debug\ArrumaRede.pdb
+D:\SITES E PROJETOS\C#\ArrumaRede\ArrumaRede\obj\x86\Debug\ArrumaRede.csprojResolveAssemblyReference.cache
+D:\SITES E PROJETOS\C#\ArrumaRede\ArrumaRede\obj\x86\Debug\ArrumaRede.Form1.resources
+D:\SITES E PROJETOS\C#\ArrumaRede\ArrumaRede\obj\x86\Debug\ArrumaRede.Properties.Resources.resources
+D:\SITES E PROJETOS\C#\ArrumaRede\ArrumaRede\obj\x86\Debug\ArrumaRede.csproj.GenerateResource.Cache
+F:\Nova pasta (2)\ArrumaRede\ArrumaRede\obj\x86\Debug\ArrumaRede.exe
+F:\Nova pasta (2)\ArrumaRede\ArrumaRede\obj\x86\Debug\ArrumaRede.pdb
+F:\Nova pasta (2)\ArrumaRede\ArrumaRede\bin\Debug\ArrumaRede.exe
+F:\Nova pasta (2)\ArrumaRede\ArrumaRede\bin\Debug\ArrumaRede.pdb
+F:\Nova pasta (2)\ArrumaRede\ArrumaRede\obj\x86\Debug\ArrumaRede.csprojResolveAssemblyReference.cache
+F:\Nova pasta (2)\ArrumaRede\ArrumaRede\obj\x86\Debug\ArrumaRede.Form1.resources
+F:\Nova pasta (2)\ArrumaRede\ArrumaRede\obj\x86\Debug\ArrumaRede.Properties.Resources.resources
+F:\Nova pasta (2)\ArrumaRede\ArrumaRede\obj\x86\Debug\ArrumaRede.csproj.GenerateResource.Cache
+F:\Nova pasta (2)\ArrumaRede\ArrumaRede\obj\x86\Debug\ArrumaRede.Detalhes.resources
+E:\Nova pasta (2)\ArrumaRede\ArrumaRede\obj\x86\Debug\ArrumaRede.exe
+E:\Nova pasta (2)\ArrumaRede\ArrumaRede\obj\x86\Debug\ArrumaRede.pdb
+E:\Nova pasta (2)\ArrumaRede\ArrumaRede\bin\Debug\ArrumaRede.exe
+E:\Nova pasta (2)\ArrumaRede\ArrumaRede\bin\Debug\ArrumaRede.pdb
+E:\Nova pasta (2)\ArrumaRede\ArrumaRede\obj\x86\Debug\ArrumaRede.csprojResolveAssemblyReference.cache
+E:\Nova pasta (2)\ArrumaRede\ArrumaRede\obj\x86\Debug\ArrumaRede.Detalhes.resources
+E:\Nova pasta (2)\ArrumaRede\ArrumaRede\obj\x86\Debug\ArrumaRede.Form1.resources
+E:\Nova pasta (2)\ArrumaRede\ArrumaRede\obj\x86\Debug\ArrumaRede.Properties.Resources.resources
+E:\Nova pasta (2)\ArrumaRede\ArrumaRede\obj\x86\Debug\ArrumaRede.csproj.GenerateResource.Cache
+F:\Nova pasta (2)\ArrumaRede\2.0\ArrumaRede\obj\x86\Debug\ArrumaRede.exe
+F:\Nova pasta (2)\ArrumaRede\2.0\ArrumaRede\obj\x86\Debug\ArrumaRede.pdb
+F:\Nova pasta (2)\ArrumaRede\2.0\ArrumaRede\bin\Debug\ArrumaRede.exe
+F:\Nova pasta (2)\ArrumaRede\2.0\ArrumaRede\bin\Debug\ArrumaRede.pdb
+F:\Nova pasta (2)\ArrumaRede\2.0\ArrumaRede\obj\x86\Debug\ArrumaRede.csprojResolveAssemblyReference.cache
+F:\Nova pasta (2)\ArrumaRede\2.0\ArrumaRede\obj\x86\Debug\ArrumaRede.Detalhes.resources
+F:\Nova pasta (2)\ArrumaRede\2.0\ArrumaRede\obj\x86\Debug\ArrumaRede.Form1.resources
+F:\Nova pasta (2)\ArrumaRede\2.0\ArrumaRede\obj\x86\Debug\ArrumaRede.Properties.Resources.resources
+F:\Nova pasta (2)\ArrumaRede\2.0\ArrumaRede\obj\x86\Debug\ArrumaRede.csproj.GenerateResource.Cache
+F:\Nova pasta (2)\ArrumaRede\2.0\ArrumaRede\obj\x86\Debug\ArrumaRede.Classes.About.resources
+E:\Nova pasta (2)\ArrumaRede\2.0\ArrumaRede\obj\x86\Debug\ArrumaRede.exe
+E:\Nova pasta (2)\ArrumaRede\2.0\ArrumaRede\obj\x86\Debug\ArrumaRede.pdb
+E:\Nova pasta (2)\ArrumaRede\2.0\ArrumaRede\obj\x86\Debug\ArrumaRede.csprojResolveAssemblyReference.cache
+E:\Nova pasta (2)\ArrumaRede\2.0\ArrumaRede\obj\x86\Debug\ArrumaRede.Classes.About.resources
+E:\Nova pasta (2)\ArrumaRede\2.0\ArrumaRede\obj\x86\Debug\ArrumaRede.Detalhes.resources
+E:\Nova pasta (2)\ArrumaRede\2.0\ArrumaRede\obj\x86\Debug\ArrumaRede.Form1.resources
+E:\Nova pasta (2)\ArrumaRede\2.0\ArrumaRede\obj\x86\Debug\ArrumaRede.Properties.Resources.resources
+E:\Nova pasta (2)\ArrumaRede\2.0\ArrumaRede\obj\x86\Debug\ArrumaRede.csproj.GenerateResource.Cache
+E:\Nova pasta (2)\ArrumaRede\2.0\ArrumaRede\bin\Debug\ArrumaRede.exe
+E:\Nova pasta (2)\ArrumaRede\2.0\ArrumaRede\bin\Debug\ArrumaRede.pdb
+D:\SITES E PROJETOS\C#\02 PROJETOS\ArrumaRede\2.0\ArrumaRede\obj\x86\Debug\ArrumaRede.exe
+D:\SITES E PROJETOS\C#\02 PROJETOS\ArrumaRede\2.0\ArrumaRede\obj\x86\Debug\ArrumaRede.pdb
+D:\SITES E PROJETOS\C#\02 PROJETOS\ArrumaRede\2.0\ArrumaRede\obj\x86\Debug\ArrumaRede.csprojResolveAssemblyReference.cache
+D:\SITES E PROJETOS\C#\02 PROJETOS\ArrumaRede\2.0\ArrumaRede\obj\x86\Debug\ArrumaRede.Classes.About.resources
+D:\SITES E PROJETOS\C#\02 PROJETOS\ArrumaRede\2.0\ArrumaRede\obj\x86\Debug\ArrumaRede.Detalhes.resources
+D:\SITES E PROJETOS\C#\02 PROJETOS\ArrumaRede\2.0\ArrumaRede\obj\x86\Debug\ArrumaRede.Form1.resources
+D:\SITES E PROJETOS\C#\02 PROJETOS\ArrumaRede\2.0\ArrumaRede\obj\x86\Debug\ArrumaRede.Properties.Resources.resources
+D:\SITES E PROJETOS\C#\02 PROJETOS\ArrumaRede\2.0\ArrumaRede\obj\x86\Debug\ArrumaRede.csproj.GenerateResource.Cache
+D:\SITES E PROJETOS\C#\02 PROJETOS\ArrumaRede\2.0\ArrumaRede\bin\Debug\ArrumaRede.exe
+D:\SITES E PROJETOS\C#\02 PROJETOS\ArrumaRede\2.0\ArrumaRede\bin\Debug\ArrumaRede.pdb
